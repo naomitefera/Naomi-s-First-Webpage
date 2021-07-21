@@ -1,0 +1,26 @@
+/* This is my styling for paragraphs */
+p {
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+
+.red {
+  color: red;
+}
+
+.center {
+  text-align: center;
+}
+
+.greenBackground {
+  background-color: green;
+}
+
+.orangeBackground {
+  background-color: orange;
+}
+
+.size14 {
+  font-size: 14px;
+}
